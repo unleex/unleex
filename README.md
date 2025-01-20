@@ -27,3 +27,7 @@ My stack:
 | [Sim companies economy data](https://github.com/unleex/simcompanies-economy-data)  | Autumn of of 2025  | In development 🚧 | Simple PyQt app to monitor economy status and all industry profits in [Sim Companies](https://www.simcompanies.com/signin/?next=/messages/)|
 | [AIJC Rhotacism detection](https://github.com/unleex/ai-challenge-anticartavost) | Summer of 2024 | Further development planned 📈 | Deep learning research for detecting speech defect in Russian language called rhotacism. Made within AIJC 2024 contest |
 | [Dungeons and dragons AI-host](https://github.com/unleex/ai-arrow-dungeons-and-dragons-by-ai) | Summer of 2024 | Further development planned 📈| Telegram bot powered by DALL-E, Chat-GPT and Whisper, that can host breathtaking **Dungeon and dragons** game with AI-generated scenes, fights, plots, their visualization and voiceover, with cool features like character skill gain, fight mechanics, and even more! Made within AI-Arrow 2024 contest by my team "Продам гараж магнитогорск" (🥉 earned)|
+| [Business AI-Assistant](https://github.com/unleex/ai-assistant-telegram-bot) | Summer of 2024 | Further development planned 📈 | Telegram bot powered by Sber Gigachat, which can help you in delegation, brainstorming and more useful acitivities for business. Made within AI-Arrow 2024 Bootcamp (🥈 earned)| 
+
+
+
