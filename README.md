@@ -17,7 +17,7 @@ My stack:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unleex)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Repositories
-*If you want to contribute to any of them, please do! Ask me on Telegram **(@unleex)** if needed.*
+*If you want to contribute to any of them, please do! Write me on Telegram **(@unleex)** if needed.*
 | Repo | Creation | Maintenance | Short description | 
 | ------------- | ------------- | ------------- | ------------- |
 | [Inglehart telegram bot survey](https://github.com/unleex/inglehart-telegram-survey)  | Winter of 2025  | No current development 💤  | Telegram-bot survey that reveals your political culture based on [Inglehart's theory](https://www.worldvaluessurvey.org/images/Map2023NEW.png) and compares it to many countries and other users |
