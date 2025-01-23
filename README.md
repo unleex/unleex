@@ -55,6 +55,7 @@
 | ------------- | ------------- | ------------- | ------------- |
 | [Graph engineering](https://github.com/unleex/graph-engineering)  | Autumn of 2025  | In development 🚧 | Simple PyQt app for schoolers to explore the nature of mathematical functions|
 | [Sim companies economy data](https://github.com/unleex/simcompanies-economy-data)  | Autumn of of 2025  | In development 🚧 | Simple PyQt app to monitor economy status and all industry profits in [Sim Companies](https://www.simcompanies.com/signin/?next=/messages/)|
+| [Advanced chess analysys](https://github.com/unleex/advanced-chess-analysis) | 🕙 | Project is planned 📆 | Chess tool that reveals tactics, key squares, pinned pieces, instead of simple best moves, helping to navigate in any position easily! | 
 
 ## AI projects
 | Repo | Creation | Maintenance | Short description | 
