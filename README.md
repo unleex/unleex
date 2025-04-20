@@ -67,3 +67,4 @@
 | Repo | Creation | Maintenance | Short description | 
 | ------------- | ------------- | ------------- | ------------- |
 | [2048 Solver](https://github.com/unleex/2048-solver) | Summer of 2024 | Further development planned 📈 | Algorithm that solves 2048, puzzle game in its original browser version, reaching high scores like 4096 tile |
+| [Geometry solver](https://github.com/unleex/geometry-solver) | Spring of 2025 | In development 🚧 | Algorithm that solves geometry problems |
