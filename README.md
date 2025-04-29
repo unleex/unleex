@@ -43,6 +43,7 @@
 ## Telegram bots
 | Repo | Creation | Maintenance | Short description | AI-Powered |
 | ------------- | ------------- | ------------- | ------------- | ---|
+| [Unciv Move!](https://github.com/unleex/unciv-notifier-tg) | Spring of 2025 | In development 🚧 | Telegram bot, that notifies about Unciv multiplayer game's current turn and sends epic chronicles based on game progress!|
 | [Dungeons and dragons AI-host](https://github.com/unleex/ai-arrow-dungeons-and-dragons-by-ai) | Summer of 2024 | Further development planned 📈| Telegram bot powered by DALL-E, Chat-GPT and Whisper, that can host breathtaking **Dungeon and dragons** game with AI-generated scenes, fights, plots, their visualization and voiceover, with cool features like character skill gain, fight mechanics, and even more! Made within AI-Arrow 2024 contest by my team "Продам гараж магнитогорск" (🥉 earned)|✅|
 | [Business AI-Assistant](https://github.com/unleex/ai-assistant-telegram-bot) | Summer of 2024 | Further development planned 📈 | Telegram bot powered by Sber Gigachat, which can help you in delegation, brainstorming and more useful acitivities for business. Made within AI-Arrow 2024 Bootcamp (🥈 earned)|✅|
 | [Inglehart telegram bot survey](https://github.com/unleex/inglehart-telegram-survey)  | Winter of 2025  | No current development 💤  | Telegram-bot survey that reveals your political culture based on [Inglehart's theory](https://www.worldvaluessurvey.org/images/Map2023NEW.png) and compares it to many countries and other users |❌|
@@ -53,8 +54,8 @@
 ## PyQt6 apps
 | Repo | Creation | Maintenance | Short description | 
 | ------------- | ------------- | ------------- | ------------- |
-| [Graph engineering](https://github.com/unleex/graph-engineering)  | Autumn of 2025  | In development 🚧 | Simple PyQt app for schoolers to explore the nature of mathematical functions|
-| [Sim companies economy data](https://github.com/unleex/simcompanies-economy-data)  | Autumn of of 2025  | In development 🚧 | Simple PyQt app to monitor economy status and all industry profits in [Sim Companies](https://www.simcompanies.com/signin/?next=/messages/)|
+| [Graph engineering](https://github.com/unleex/graph-engineering)  | Autumn of 2025  | Further development planned 📈 | Simple PyQt app for schoolers to explore the nature of mathematical functions|
+| [Sim companies economy data](https://github.com/unleex/simcompanies-economy-data)  | Autumn of of 2025  |Further development planned 📈 | Simple PyQt app to monitor economy status and all industry profits in [Sim Companies](https://www.simcompanies.com/signin/?next=/messages/)|
 | [Tactical chess analysis](https://github.com/unleex/chess-tactical-analysis) | 🕙 | Project is planned 📆 | This chess tool will provide a broader view on the board. Pinned pieces, key squares, are highlighted, making it easier to navigate in any position! | 
 
 ## AI projects
