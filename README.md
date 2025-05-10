@@ -22,7 +22,10 @@
 <img src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif" width="160" height="160" />
 
 # My achievements
-## Telegram bots
+
+🥈 in HSE DA School 2025: Joke generation case from LEYA
+- Repo: [News joker](https://github.com/unleex/news-joker)
+- Results: (img)
 🥈 in AI-Arrow 2024 Bootcamp
 - Repo: [Business AI-Assistant](https://github.com/unleex/ai-assistant-telegram-bot)
 - Results: https://docs.google.com/spreadsheets/d/1wMfnsOsgKCgKV7NZNjg8Rj04aBKY0rl9/edit?gid=4932545#gid=4932545
@@ -30,6 +33,7 @@
 🥉 in AI-Arrow 2024 Contest. Team: "продам гараж магнитогорск 20 тысяч"
 - Repo: [Dungeons and dragons AI-host](https://github.com/unleex/ai-arrow-dungeons-and-dragons-by-ai)
 - Results: https://vbudushee.ru/about/news/budushchee-ii-v-nadyezhnykh-rukakh-opredeleny-pobediteli-butkempa-ai-arrow-i-khakatona-podzemelya/
+
 
 
 # My Projects
@@ -50,7 +54,7 @@
 | [Sticker mosaic Telegram bot](https://github.com/unleex/telegram-sticker-mosaic) | Summer of 2024 | Further development planned 📈 | Telegram bot, that creates sticker (or even premium emoji) pack out of a photo, so that that it recreates the original photo in preview |❌|
 | [Persistent reminders Telegram bot](https://github.com/unleex/pers_reminderBot) | Winter of 2023  | Further development planned 📈 | Telegram bot that "persistently" reminds schoolers about their homework, also storing the schedule and other tasks |❌|
 | [Telegram group message labeler](https://github.com/unleex/telegram-message-labeler) | 🕙 | Project is planned 📆 | Telegram bot that labels messages and media in group with use of Chat-GPT according to their meaning and content. |✅|
-
+| [News joker](https://github.com/unleex/news-joker) | Spring of 2025 | Further development planned 📈 | On-premise system that generates jokes based on news posts. |✅|
 ## PyQt6 apps
 | Repo | Creation | Maintenance | Short description | 
 | ------------- | ------------- | ------------- | ------------- |
