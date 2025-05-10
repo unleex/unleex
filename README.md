@@ -57,7 +57,7 @@
 | [Sticker mosaic Telegram bot](https://github.com/unleex/telegram-sticker-mosaic) | Summer of 2024 | Further development planned 📈 | Telegram bot, that creates sticker (or even premium emoji) pack out of a photo, so that that it recreates the original photo in preview |❌|
 | [Persistent reminders Telegram bot](https://github.com/unleex/pers_reminderBot) | Winter of 2023  | Further development planned 📈 | Telegram bot that "persistently" reminds schoolers about their homework, also storing the schedule and other tasks |❌|
 | [Telegram group message labeler](https://github.com/unleex/telegram-message-labeler) | 🕙 | Project is planned 📆 | Telegram bot that labels messages and media in group with use of Chat-GPT according to their meaning and content. |✅|
-| [News joker](https://github.com/unleex/news-joker) | Spring of 2025 | Further development planned 📈 | On-premise system that generates jokes based on news posts. |✅|
+| [News joker](https://github.com/unleex/news-joker) | Spring of 2025 | Further development planned 📈 | On-premise system that generates jokes based on news posts. Made within HSE DA School 2025: Joke generation case from LEYA (🥈 earned) |✅|
 ## PyQt6 apps
 | Repo | Creation | Maintenance | Short description | 
 | ------------- | ------------- | ------------- | ------------- |
