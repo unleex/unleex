@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/KO80NCIjQAUAAAAM/cat-smiling-cat.gif" />
+![image](https://github.com/user-attachments/assets/723f5aec-1a9d-4990-9340-606d737f406f)<img src="https://media.tenor.com/KO80NCIjQAUAAAAM/cat-smiling-cat.gif" />
 
 *Hi there! I am 17 y. o. Russian Python developer and machine learning enthusiast!*
 
@@ -10,6 +10,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" width="40" height="40" />
   <img src="https://docs.aiogram.dev/en/v3.17.0/_static/logo.png" width="40" height="40"/>
   <img src="https://doc.qt.io/qtforpython-6/_static/qtforpython.png" width="40" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/298px-Scikit_learn_logo_small.svg.png" width="50" height="30"/>
+
 </div>
 ––––––––––––––––––––
 
@@ -25,7 +27,8 @@
 
 🥈 in HSE DA School 2025: Joke generation case from LEYA
 - Repo: [News joker](https://github.com/unleex/news-joker)
-- Results: (img)
+- Results: https://github.com/user-attachments/assets/95ebf7e0-e906-4217-b008-45304ecc80ba
+
 🥈 in AI-Arrow 2024 Bootcamp
 - Repo: [Business AI-Assistant](https://github.com/unleex/ai-assistant-telegram-bot)
 - Results: https://docs.google.com/spreadsheets/d/1wMfnsOsgKCgKV7NZNjg8Rj04aBKY0rl9/edit?gid=4932545#gid=4932545
