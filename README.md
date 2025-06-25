@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/723f5aec-1a9d-4990-9340-606d737f406f)<img src="https://media.tenor.com/KO80NCIjQAUAAAAM/cat-smiling-cat.gif" />
+<img src="https://media.tenor.com/KO80NCIjQAUAAAAM/cat-smiling-cat.gif" />
 
 *Hi there! I am 17 y. o. Russian Python developer and machine learning enthusiast!*
 
